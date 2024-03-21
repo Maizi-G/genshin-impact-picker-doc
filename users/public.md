@@ -9,8 +9,8 @@ description: 展示公共站点列表
 |地址|贡献者/维护者|Note|
 |--|--|--|
 |[dm.mznet.pro](https://dm.mznet.pro)|@Maizi-G|本站点使用Cloudflare减速器，可能会有一定的访问延迟，请保持耐心。|
-|[genshin.jerryz.com.cn](https://genshin.jerryz.com.cn/)|--|--|
-|[picker.shawn404.top](https://picker.shawn404.top)|--|--|
-|[ys-picker.netlify.app](https://ys-picker.netlify.app)|--|--|
+|[genshin.jerryz.com.cn](https://genshin.jerryz.com.cn/)|@YangguangZhou|--|
+|[picker.shawn404.top](https://picker.shawn404.top)|@ShawnNotFound|--|
+|[ys-picker.netlify.app](https://ys-picker.netlify.app)|@luyanci|使用了Netlify自动部署|
 
 
