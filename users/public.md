@@ -11,6 +11,6 @@ description: 展示公共站点列表
 |[dm.mznet.pro](https://dm.mznet.pro)|@Maizi-G|本站点使用Cloudflare减速器，可能会有一定的访问延迟，请保持耐心。|
 |[genshin.jerryz.com.cn](https://genshin.jerryz.com.cn/)|@YangguangZhou|--|
 |[picker.shawn404.top](https://picker.shawn404.top)|@ShawnNotFound|--|
-|[ys-picker.netlify.app](https://ys-picker.netlify.app)|@luyanci|使用了Netlify自动部署|
+|[ys-picker.netlify.app](https://ys-picker.netlify.app)|@luyanci|使用了Netlify自动部署，由于网站部署在国外,可能存在延迟，请耐心等待|
 
 
