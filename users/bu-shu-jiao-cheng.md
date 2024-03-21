@@ -9,11 +9,13 @@ description: 本文主要教学用户如何部署本点名器
 ### 部署到自有服务器
 
 1. [从源代码部署](cong-yuan-dai-ma-bu-shu.md)
-2. docker部署
+2. [docker部署](shi-yong-docker-bu-shu.md)
 
 ### 无服务器部署
 
-使用无服务器一键部署方式
+[使用无服务器一键部署方式](shi-yong-wu-fu-wu-qi-bu-shu-fang-shi.md)
 
 ## 使用已经编译好的客户端
+
+使用已经编译好可以直接运行的软件包
 
