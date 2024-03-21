@@ -18,7 +18,7 @@ description: 本文主要教学用户如何部署本点名器
 
 相对于Release，CI版本可提前体验尚未正式发布的更新内容(可能不稳定)
 
-从[Github Action(CI)](https://github.com/cyanial/genshin-impact-picker/actions/app.yml)中获取对应系统的程序包
+从[Github Action(CI)](https://github.com/cyanial/genshin-impact-picker/actions/workflows/app.yml)中获取对应系统的程序包
 
 ## 在线使用
 
