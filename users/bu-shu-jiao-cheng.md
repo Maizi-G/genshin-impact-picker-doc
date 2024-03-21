@@ -17,5 +17,5 @@ description: 本文主要教学用户如何部署本点名器
 
 ## 使用已经编译好的客户端
 
-使用已经编译好可以直接运行的软件包
+[使用已经编译好可以直接运行的软件包](zai-ben-di-she-bei-shi-yong-ruan-jian-bao.md)
 
