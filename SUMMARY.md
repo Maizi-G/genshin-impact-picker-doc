@@ -5,6 +5,7 @@
 ## 用户文档 <a href="#users" id="users"></a>
 
 * [部署教程](users/bu-shu-jiao-cheng.md)
+* [从源代码部署](users/cong-yuan-dai-ma-bu-shu.md)
 
 ## 开发文档 <a href="#develop" id="develop"></a>
 
