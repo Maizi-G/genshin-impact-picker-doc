@@ -24,3 +24,6 @@ description: 本文主要教学用户如何部署本点名器
 
 [使用已经编译好可以直接运行的软件包](zai-ben-di-she-bei-shi-yong-ruan-jian-bao.md)
 
+# 配置教程
+
+[点击这里](configure.md)
