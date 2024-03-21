@@ -4,7 +4,7 @@ description: 本文主要教学用户如何部署本点名器
 
 # 部署教程
 
-## 本地使用(推荐)
+## 本地(推荐)
 
 ### 通过Release获取应用程序
 
@@ -20,7 +20,7 @@ description: 本文主要教学用户如何部署本点名器
 
 从[Github Action(CI)](https://github.com/cyanial/genshin-impact-picker/actions/workflows/app.yml)中获取对应系统的程序包
 
-## 在线使用
+## 在线
 
 > Tips:因为在线部署后可能存在网络波动等问题，没有本地流畅，因此不推荐使用本方法
 
