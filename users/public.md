@@ -8,4 +8,7 @@ description: 展示公共站点列表
 
 |地址|贡献者/维护者|Note|
 |--|--|--|
-|todo|todo|todo|
+|[dm.mznet.pro](https://dm.mznet.pro)|todo|本站点使用Cloudflare减速器，可能会有一定的访问延迟，请保持耐心。|
+
+
+
