@@ -6,6 +6,11 @@ description: 本文主要教学用户如何部署本点名器
 
 ## 在线部署
 
+### 公共站点
+
+本部分提供了一些由用户自行部署的站点，可[点击这里](public.md)来查看链接地址
+
+
 ### 部署到自有服务器
 
 1. [从源代码部署](cong-yuan-dai-ma-bu-shu.md)
@@ -19,3 +24,6 @@ description: 本文主要教学用户如何部署本点名器
 
 [使用已经编译好可以直接运行的软件包](zai-ben-di-she-bei-shi-yong-ruan-jian-bao.md)
 
+# 配置教程
+
+[点击这里](configure.md)
