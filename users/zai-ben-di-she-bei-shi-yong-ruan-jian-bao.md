@@ -4,7 +4,7 @@ description: 从release直接下载编译好的软件包
 
 # 在本地设备使用软件包
 
-前往[https://github.com/cyanial/genshin-impact-picker/releases](https://github.com/cyanial/genshin-impact-picker/releases)
+从[github release](https://github.com/cyanial/genshin-impact-picker/releases/latest)中按照以下说明来获取对应系统的程序包
 
 ### 文件说明
 
