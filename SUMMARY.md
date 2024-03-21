@@ -12,4 +12,4 @@
 
 ## 开发文档 <a href="#develop" id="develop"></a>
 
-* [敬请期待](develop/jing-qing-qi-dai.md)
+* [敬请期待](develop/page-2.md)
