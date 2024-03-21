@@ -30,7 +30,7 @@ description: 本文主要教学用户如何部署本点名器
 
 ### Netlify 一键部署
 
-通过下方按钮可直接一键部署至 Netlify（本仓库已内置配置文件，适合懒人使用）。
+通过下方按钮可直接一键部署至 Netlify（已内置配置文件，适合懒人使用）。
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cyanial/genshin-impact-picker&base=Genshin-Impact-Wish-Simulator)
 
