@@ -15,7 +15,7 @@ $ npm run build # 生成当前系统的可执行文件
 $ npm run build-win # 生成 Windows x64 的可执行文件
 ```
 
-> 如果在执行`npm install`时出现了electron相关的错误，可参考[这篇文章]()的方法来手动进行安装
+> 如果在执行`npm install`时出现了electron相关的错误，可参考[这篇文章](https://www.bilibili.com/read/mobile?id=4789160)的方法来手动进行安装electron
 
 ### Tauri
 
