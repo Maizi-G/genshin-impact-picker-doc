@@ -24,4 +24,7 @@ electron-static: 构建**electron**打包的应用程序项目
 
 ## 前端开发
 
-[点击这里](frontend.md)查看教程
+[点击这里](frontend.md)来查看教程
+
+## 应用程序开发
+[点击这里](app.md)来查看教程
