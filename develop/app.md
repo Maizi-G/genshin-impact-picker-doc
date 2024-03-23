@@ -19,7 +19,7 @@ $ npm run build-win # 生成 Windows x64 的可执行文件
 
 ### Tauri
 
->在这之前，请按Tauri的[文档](https://tauri.app/v1/guides/getting-started/prerequisites)配置好相应软件，并确保在[前端开发](frontend.md#初始化)中已经安装好项目依赖
+>在这之前，请按Tauri的[文档](https://tauri.app/v1/guides/getting-started/prerequisites)配置好相应软件，并确保在[前端开发](frontend.md#安装依赖)中已经安装好项目依赖
 
 
 在 `Genshin-Impact-Wish-Simulator` 目录下执行：
