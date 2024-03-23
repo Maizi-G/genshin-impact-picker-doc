@@ -1,6 +1,7 @@
 # 构建应用程序
 
-## Electron
+## 本地构建
+### Electron
 
 通过在[前端开发](frontend.md#构建)的构建页面步骤中生成静态文件
 
@@ -16,7 +17,7 @@ $ npm run build-win # 生成 Windows x64 的可执行文件
 
 > 如果在执行`npm install`时出现了electron相关的错误，可参考[这篇文章]()的方法来手动进行安装
 
-## Tauri
+### Tauri
 
 **需要安装Rust**
 
@@ -25,3 +26,6 @@ $ npm run build-win # 生成 Windows x64 的可执行文件
 ```bash
 $ npm run tauri build
 ```
+
+## 通过Github Action自动构建
+
