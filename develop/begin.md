@@ -4,7 +4,7 @@
 
 需要安装Nodejs和git
 
-app构建还需要安装好rust语言环境
+app构建还需要安装好rust编程语言环境
 
 ~~可能还需要一个特殊网络环境~~
 
@@ -20,7 +20,7 @@ Genshin-Impact-Wish-Simulator: 为前端页面与主要项目，同时构建**Ta
 
 electron-static: 构建**electron**打包的应用程序项目
 
-> Tips:Electron停止了对win7/win8.1的技术支持，在该系统中运行electron应用时会报错，需要升级更高版本的系统
+> Tips:由于Electron停止了对win7/win8.1的技术支持，在该系统中运行electron应用时会报错，需要升级更高版本的系统
 
 ## 前端开发
 
