@@ -32,6 +32,15 @@ $ npm run tauri build
 
 如果因为一些原因而无法进行构建程序，可以通过CI的方式来进行构建
 
+可直接点击action来使用相应的工作流
+
+|工作流|说明|
+|-|-|
+|Build app|构建应用程序|
+|Build app with Tauri|构建使用Tauri的应用程序|
+|Page|构建页面|
+|Release|发布Release|
+
 CI配置文件在`.github/workflows`目录下
 
 以下是相应的文件说明：
