@@ -30,4 +30,4 @@ npm run build
 
 ### App构建
 
-[点击这里](app.md#tauri)
+[点击这里](app.md#tauri)来查看教程
