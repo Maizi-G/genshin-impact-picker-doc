@@ -38,10 +38,11 @@ CI配置文件在`.github/workflows`目录下
 
 |文件名|触发方式|说明|
 |-|-|-|
-|page.yml|手动触发/连锁/对`Genshin-Impact-Wish-Simulator/src`文件夹内的文件进行commit提交或PR |构建页面|
+|page.yml|手动触发/连锁/对`Genshin-Impact-Wish-Simulator/src`文件夹内的文件进行commit提交或发PR |构建页面|
 |app.yml|手动触发/连锁触发/对`electron-static` `Genshin-Impact-Wish-Simulator/src-tauri`或`Genshin-Impact-Wish-Simulator/src`文件夹内的文件进行commit或发PR|构建应用程序|
 |tauri.yml|手动触发/连锁触发|构建使用Tauri打包的应用程序|
 |release.yml|提交含`v**`的tag|发布Release|
 
+> 以上文件有存在相互调用的情况，这样子的话可以避免重复造轮
 
 
