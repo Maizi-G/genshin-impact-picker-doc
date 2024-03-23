@@ -34,7 +34,7 @@ $ npm run tauri build
 
 可直接点击action来使用相应的工作流
 
-|工作流|说明|
+|工作流名称|说明|
 |-|-|
 |Build app|构建应用程序|
 |Build app with Tauri|构建使用Tauri的应用程序|
