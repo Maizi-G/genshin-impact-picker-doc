@@ -30,3 +30,7 @@ $ npm run tauri build
 
 ## 通过Github Action自动构建
 
+如果因为一些原因而无法进行构建程序，可以通过CI的方式来进行构建
+
+CI配置文件在`.github/workflows`目录下
+
