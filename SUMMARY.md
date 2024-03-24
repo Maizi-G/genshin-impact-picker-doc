@@ -17,4 +17,6 @@
 
 ## 开发文档 <a href="#develop" id="develop"></a>
 
-* [敬请期待](develop/page-2.md)
+* [构建应用程序](develop/app.md)
+* [开始开发](develop/begin.md)
+* [前端开发](develop/frontend.md)
