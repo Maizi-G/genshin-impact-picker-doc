@@ -15,5 +15,5 @@ description: 展示公共站点列表
 |[demo-picker.shawn404.top](https://demo-picker.shawn404.top)|@ShawnNotFound|--|
 |[ys-picker.netlify.app](https://ys-picker.netlify.app)|@luyanci|使用了Netlify自动部署，由于网站部署在国外,可能存在延迟，请耐心等待|
 |[ysselect-proxy.iceberg-studio.com](https://ysselect-proxy.iceberg-studio.com)|@arkting|基于dm.mznet.pro，通过代理访问加快加载速度|
-
+|[chou.akiker.top](https://chou.akiker.top)|@akiker233|CDN加速|
 
