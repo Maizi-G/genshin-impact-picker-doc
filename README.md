@@ -10,14 +10,12 @@ description: 项目仓库：https://github.com/cyanial/genshin-impact-picker
 
 [![发布状态](https://github.com/cyanial/genshin-impact-picker/actions/workflows/release.yml/badge.svg)](https://github.com/cyanial/genshin-impact-picker/actions/workflows/release.yml) [![页面状态](https://github.com/cyanial/genshin-impact-picker/actions/workflows/page.yml/badge.svg)](https://github.com/cyanial/genshin-impact-picker/actions/workflows/page.yml) [![应用构建状态](https://github.com/cyanial/genshin-impact-picker/actions/workflows/app.yml/badge.svg)](https://github.com/cyanial/genshin-impact-picker/actions/workflows/app.yml)
 
-
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 
 ### 注意
@@ -28,16 +26,12 @@ description: 项目仓库：https://github.com/cyanial/genshin-impact-picker
 
 欢迎大家在不影响正常使用的情况下，分享自己部署的点名器站点，以供大家共同使用：
 
-1. [dm.mznet.pro](https://dm.mznet.pro)
-
-> 本站点使用Cloudflare减速器，可能会有一定的访问延迟，请保持耐心。我将尽力保持长期运营。
-
-2. [genshin.jerryz.com.cn](https://genshin.jerryz.com.cn/)
-3. [picker.shawn404.top](https://picker.shawn404.top)
-4. [ys-picker.netlify.app](https://ys-picker.netlify.app)
-5. [ysselect-proxy.iceberg-studio.com](https://ysselect-proxy.iceberg-studio.com)
-6. [chou.akiker.top](https://chou.akiker.top)
-7. [ys-picker.393837.xyz](https://ys-picker.393837.xyz/)
+1. [genshin.jerryz.com.cn](https://genshin.jerryz.com.cn/)
+2. [picker.shawn404.top](https://picker.shawn404.top)
+3. [ys-picker.netlify.app](https://ys-picker.netlify.app)
+4. [ysselect-proxy.iceberg-studio.com](https://ysselect-proxy.iceberg-studio.com)
+5. [chou.akiker.top](https://chou.akiker.top)
+6. [ys-picker.393837.xyz](https://ys-picker.393837.xyz/)
 
 #### 原仓库许可证：WishSimulator（MIT 许可证）
 
