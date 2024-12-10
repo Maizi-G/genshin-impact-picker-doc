@@ -16,3 +16,4 @@ description: 展示公共站点列表
 | [ysselect-proxy.iceberg-studio.com](https://ysselect-proxy.iceberg-studio.com) | @arkting                                   | 基于dm.mznet.pro，通过代理访问加快加载速度            |
 | [chou.akiker.top](https://chou.akiker.top)                                     | @akiker233                                 | CDN加速                                  |
 | [ys-picker.393837.xyz](https://ys-picker.393837.xyz/)                          | [@Regionnor](https://github.com/Regionnor) | 基于Vercel部署，服务器在海外，首次访问延迟可能较大，可使用代理加速访问 |
+| [name.c1rcle.top](https://name.c1rcle.top/)                                    | [@c1rcle-xy](https://github.com/c1rcle-xy) | 速度凑合，只能说是能用的水平 |

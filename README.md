@@ -32,6 +32,7 @@ description: 项目仓库：https://github.com/cyanial/genshin-impact-picker
 4. [ysselect-proxy.iceberg-studio.com](https://ysselect-proxy.iceberg-studio.com)
 5. [chou.akiker.top](https://chou.akiker.top)
 6. [ys-picker.393837.xyz](https://ys-picker.393837.xyz/)
+7. [name.c1rcle.top](https://name.c1rcle.top/)
 
 #### 原仓库许可证：WishSimulator（MIT 许可证）
 
